@@ -11,10 +11,6 @@ ul {
   list-style: none;
 }
 
-a {
-  text-decoration: underline;
-}
-
 a,
 button {
   transition: all 0.3s ease-in-out;
@@ -459,13 +455,6 @@ nav .caret {
 
 .btn.pull-right {
   margin: 0 0 5px 5px;
-}
-
-input:focus {
-  color: #212121;
-  background-color: #c27956;
-  font-weight: 700;
-  font-size: 15px;
 }
 
 .btn-d,
